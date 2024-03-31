@@ -1,0 +1,139 @@
+Watching for file changes with StatReloader
+"GET /about/ HTTP/1.1" 200 8
+"GET / HTTP/1.1" 200 13
+C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 13
+"GET /about/ HTTP/1.1" 200 27
+C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myproject\settings.py changed, reloading.
+Error in about page: division by zero
+Traceback (most recent call last):
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py", line 25, in about
+    result = 1 / 0
+ZeroDivisionError: division by zero
+Index page accessed
+INFO 2024-03-31 17:57:34,103 autoreload 18916 4868 Watching for file changes with StatReloader
+INFO 2024-03-31 18:11:31,978 autoreload 18916 4868 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:11:33,484 autoreload 7436 37860 Watching for file changes with StatReloader
+INFO 2024-03-31 18:11:37,695 views 7436 35720 Index page accessed
+INFO 2024-03-31 18:11:37,701 basehttp 7436 35720 "GET / HTTP/1.1" 200 13
+INFO 2024-03-31 18:11:43,240 views 7436 35720 About page accessed
+INFO 2024-03-31 18:11:43,243 basehttp 7436 35720 "GET /about/ HTTP/1.1" 200 22
+INFO 2024-03-31 18:12:55,256 autoreload 7436 37860 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:12:56,575 autoreload 17160 9676 Watching for file changes with StatReloader
+INFO 2024-03-31 18:13:05,031 autoreload 17160 9676 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:13:07,175 autoreload 5796 20404 Watching for file changes with StatReloader
+INFO 2024-03-31 18:13:10,061 views 5796 48404 Index page accessed
+INFO 2024-03-31 18:13:10,066 basehttp 5796 48404 "GET / HTTP/1.1" 200 17
+INFO 2024-03-31 18:15:04,614 autoreload 5796 20404 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:15:06,452 autoreload 40048 45060 Watching for file changes with StatReloader
+INFO 2024-03-31 18:16:54,910 autoreload 40048 45060 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:16:59,440 autoreload 1628 14904 Watching for file changes with StatReloader
+INFO 2024-03-31 18:17:20,368 views 1628 11204 About page accessed
+INFO 2024-03-31 18:17:20,370 basehttp 1628 11204 "GET /about/ HTTP/1.1" 200 211
+INFO 2024-03-31 18:17:26,095 views 1628 42272 Index page accessed
+INFO 2024-03-31 18:17:26,098 basehttp 1628 42272 "GET / HTTP/1.1" 200 237
+INFO 2024-03-31 18:18:30,886 autoreload 1628 14904 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:18:32,417 autoreload 27316 8236 Watching for file changes with StatReloader
+INFO 2024-03-31 18:18:36,950 views 27316 26764 Index page accessed
+INFO 2024-03-31 18:18:36,952 basehttp 27316 26764 "GET / HTTP/1.1" 200 279
+INFO 2024-03-31 18:18:38,591 views 27316 26764 About page accessed
+INFO 2024-03-31 18:18:38,592 basehttp 27316 26764 "GET /about/ HTTP/1.1" 200 211
+INFO 2024-03-31 18:19:07,371 autoreload 27316 8236 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:19:08,844 autoreload 32912 14360 Watching for file changes with StatReloader
+INFO 2024-03-31 18:19:09,099 views 32912 13392 About page accessed
+INFO 2024-03-31 18:19:09,102 basehttp 32912 13392 "GET /about/ HTTP/1.1" 200 211
+INFO 2024-03-31 18:19:10,888 views 32912 13392 Index page accessed
+INFO 2024-03-31 18:19:10,891 basehttp 32912 13392 "GET / HTTP/1.1" 200 290
+INFO 2024-03-31 18:19:14,830 views 32912 8136 About page accessed
+INFO 2024-03-31 18:19:14,834 basehttp 32912 8136 "GET /about/ HTTP/1.1" 200 211
+INFO 2024-03-31 18:20:27,781 autoreload 32912 14360 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:20:29,009 autoreload 1464 35996 Watching for file changes with StatReloader
+INFO 2024-03-31 18:20:52,694 autoreload 1464 35996 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:20:53,828 autoreload 30252 16236 Watching for file changes with StatReloader
+INFO 2024-03-31 18:25:40,999 autoreload 30252 16236 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:25:42,882 autoreload 27244 41576 Watching for file changes with StatReloader
+INFO 2024-03-31 18:25:52,388 views 27244 40264 Index page accessed
+INFO 2024-03-31 18:25:52,392 basehttp 27244 40264 "GET / HTTP/1.1" 200 917
+INFO 2024-03-31 18:27:31,551 autoreload 27244 41576 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:27:33,529 autoreload 20540 39536 Watching for file changes with StatReloader
+INFO 2024-03-31 18:27:33,743 views 20540 47364 Index page accessed
+INFO 2024-03-31 18:27:33,745 basehttp 20540 47364 "GET / HTTP/1.1" 200 918
+INFO 2024-03-31 18:30:55,151 autoreload 20540 39536 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:30:59,132 autoreload 33728 41348 Watching for file changes with StatReloader
+INFO 2024-03-31 18:31:29,346 autoreload 33728 41348 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:31:30,960 autoreload 24876 31028 Watching for file changes with StatReloader
+INFO 2024-03-31 18:31:32,383 views 24876 39176 Index page accessed
+INFO 2024-03-31 18:31:32,384 basehttp 24876 39176 "GET / HTTP/1.1" 200 1038
+INFO 2024-03-31 18:32:51,932 autoreload 24876 31028 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:32:53,697 autoreload 8484 15476 Watching for file changes with StatReloader
+INFO 2024-03-31 18:33:08,249 autoreload 8484 15476 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:33:09,939 autoreload 25736 31160 Watching for file changes with StatReloader
+INFO 2024-03-31 18:33:10,375 views 25736 5592 Index page accessed
+INFO 2024-03-31 18:33:10,377 basehttp 25736 5592 "GET / HTTP/1.1" 200 1063
+INFO 2024-03-31 18:36:15,711 autoreload 25736 31160 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:36:16,974 autoreload 320 2776 Watching for file changes with StatReloader
+INFO 2024-03-31 18:36:17,336 views 320 40408 Index page accessed
+INFO 2024-03-31 18:36:17,338 basehttp 320 40408 "GET / HTTP/1.1" 200 1357
+INFO 2024-03-31 18:36:39,307 autoreload 320 2776 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:36:42,378 autoreload 18532 19408 Watching for file changes with StatReloader
+INFO 2024-03-31 18:37:00,559 autoreload 18532 19408 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:37:01,891 autoreload 17336 39488 Watching for file changes with StatReloader
+INFO 2024-03-31 18:37:22,811 autoreload 17336 39488 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:37:24,096 autoreload 25740 36412 Watching for file changes with StatReloader
+INFO 2024-03-31 18:37:25,677 views 25740 12012 Index page accessed
+INFO 2024-03-31 18:37:25,679 basehttp 25740 12012 "GET / HTTP/1.1" 200 1359
+INFO 2024-03-31 18:38:20,108 autoreload 25740 36412 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:38:21,206 autoreload 30984 39864 Watching for file changes with StatReloader
+INFO 2024-03-31 18:38:37,892 autoreload 30984 39864 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:38:39,564 autoreload 1692 30180 Watching for file changes with StatReloader
+INFO 2024-03-31 18:38:52,358 autoreload 1692 30180 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:38:53,577 autoreload 24640 25404 Watching for file changes with StatReloader
+INFO 2024-03-31 18:38:54,725 views 24640 19936 Index page accessed
+INFO 2024-03-31 18:38:54,727 basehttp 24640 19936 "GET / HTTP/1.1" 200 1242
+INFO 2024-03-31 18:39:21,598 views 24640 45576 Index page accessed
+INFO 2024-03-31 18:39:21,599 basehttp 24640 45576 "GET / HTTP/1.1" 200 1242
+INFO 2024-03-31 18:39:26,101 views 24640 45576 About page accessed
+INFO 2024-03-31 18:39:26,102 basehttp 24640 45576 "GET /about/ HTTP/1.1" 200 211
+INFO 2024-03-31 18:39:39,919 views 24640 41064 About page accessed
+INFO 2024-03-31 18:39:39,922 basehttp 24640 41064 "GET /about/ HTTP/1.1" 200 211
+WARNING 2024-03-31 18:39:41,498 log 24640 41064 Not Found: /aboutр
+WARNING 2024-03-31 18:39:41,499 basehttp 24640 41064 "GET /about%D1%80 HTTP/1.1" 404 2433
+INFO 2024-03-31 18:39:51,505 views 24640 21296 Index page accessed
+INFO 2024-03-31 18:39:51,507 basehttp 24640 21296 "GET / HTTP/1.1" 200 1242
+INFO 2024-03-31 18:40:41,947 autoreload 24640 25404 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:40:43,982 autoreload 23172 21240 Watching for file changes with StatReloader
+INFO 2024-03-31 18:44:13,017 autoreload 23172 21240 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:44:14,764 autoreload 25364 14676 Watching for file changes with StatReloader
+INFO 2024-03-31 18:44:15,505 views 25364 35396 Index page accessed
+INFO 2024-03-31 18:44:15,509 basehttp 25364 35396 "GET / HTTP/1.1" 200 1256
+INFO 2024-03-31 18:44:17,029 views 25364 35396 About page accessed
+INFO 2024-03-31 18:44:17,030 basehttp 25364 35396 "GET /about/ HTTP/1.1" 200 224
+INFO 2024-03-31 18:44:38,172 autoreload 25364 14676 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:44:39,408 autoreload 22504 31728 Watching for file changes with StatReloader
+INFO 2024-03-31 18:44:39,703 views 22504 23348 About page accessed
+INFO 2024-03-31 18:44:39,705 basehttp 22504 23348 "GET /about/ HTTP/1.1" 200 211
+INFO 2024-03-31 18:45:09,821 autoreload 22504 31728 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:45:11,157 autoreload 26880 5772 Watching for file changes with StatReloader
+INFO 2024-03-31 18:45:43,553 autoreload 26880 5772 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:45:44,992 autoreload 37920 29372 Watching for file changes with StatReloader
+INFO 2024-03-31 18:46:44,547 autoreload 37920 29372 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:46:46,785 autoreload 21140 41056 Watching for file changes with StatReloader
+INFO 2024-03-31 18:46:47,172 views 21140 45384 About page accessed
+INFO 2024-03-31 18:46:47,175 basehttp 21140 45384 "GET /about/ HTTP/1.1" 200 280
+INFO 2024-03-31 18:47:07,986 autoreload 21140 41056 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:47:09,376 autoreload 48280 24056 Watching for file changes with StatReloader
+INFO 2024-03-31 18:47:09,668 views 48280 32328 About page accessed
+INFO 2024-03-31 18:47:09,669 basehttp 48280 32328 "GET /about/ HTTP/1.1" 200 276
+INFO 2024-03-31 18:48:44,318 views 48280 1708 Index page accessed
+INFO 2024-03-31 18:48:44,325 basehttp 48280 1708 "GET / HTTP/1.1" 200 1255
+INFO 2024-03-31 18:48:57,989 views 48280 39528 About page accessed
+INFO 2024-03-31 18:48:57,991 basehttp 48280 39528 "GET /about/ HTTP/1.1" 200 276
